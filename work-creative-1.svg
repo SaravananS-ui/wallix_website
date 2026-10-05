@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" rx="12" fill="#0A0B10"/>
+  <rect x="20" y="20" width="560" height="360" rx="10" fill="#13141F" stroke="#25293C" stroke-width="1.5"/>
+  
+  <!-- Creative poster visual -->
+  <rect x="40" y="50" width="270" height="300" rx="8" fill="#07080B" stroke="#F59E0B" stroke-width="1"/>
+  <circle cx="175" cy="180" r="80" stroke="#F59E0B" stroke-width="1.5" stroke-dasharray="8 4"/>
+  <circle cx="175" cy="180" r="50" fill="#F59E0B" fill-opacity="0.15"/>
+  <path d="M110 240 Q175 100 240 240" stroke="#FBBF24" stroke-width="3" fill="none"/>
+  <text x="175" y="100" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="900" letter-spacing="4">RESONANCE</text>
+  <text x="175" y="120" text-anchor="middle" fill="#F59E0B" font-family="sans-serif" font-size="10" font-weight="700" letter-spacing="3">ELECTRONIC AUDIO EXP</text>
+  <text x="175" y="325" text-anchor="middle" fill="#6B7280" font-family="monospace" font-size="9">WALLIX DESIGN ARCHIVE 2026</text>
+
+  <text x="340" y="95" fill="#F59E0B" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">POSTER &amp; CREATIVE DESIGN</text>
+  <text x="340" y="130" fill="#FFFFFF" font-family="sans-serif" font-size="22" font-weight="700">Resonance Festival</text>
+  <text x="340" y="165" fill="#9CA3AF" font-family="sans-serif" font-size="13">High-impact typography poster series, billboard key visuals, and motion graphics for international music summit.</text>
+
+  <rect x="340" y="215" width="220" height="50" rx="8" fill="#181B2A"/>
+  <text x="355" y="238" fill="#9CA3AF" font-family="sans-serif" font-size="10">Print &amp; Digital Deliverables</text>
+  <text x="355" y="255" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="600">A1 Print Posters + Social Pack</text>
+
+  <rect x="340" y="280" width="220" height="50" rx="8" fill="#181B2A"/>
+  <text x="355" y="303" fill="#9CA3AF" font-family="sans-serif" font-size="10">Visual Treatment</text>
+  <text x="355" y="320" fill="#F59E0B" font-family="sans-serif" font-size="13" font-weight="600">Monochrome with Golden Accents</text>
+</svg>
